@@ -1,5 +1,5 @@
 {
-   "name":"akaunting/money",
+   "name":"conttas/laravel-money",
    "description":"Currency formatting and conversion package for Laravel.",
    "keywords":[
       "laravel",
