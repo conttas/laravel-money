@@ -20,7 +20,7 @@ Because `moneyphp` uses the `intl` extension for number formatting. `intl` exten
 Run the following command:
 
 ```bash
-composer require akaunting/money
+composer require conttas/laravel-money
 ```
 
 ### 2. Register (for Laravel < 5.5)
