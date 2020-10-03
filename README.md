@@ -2,7 +2,6 @@
 
 [![Release](https://img.shields.io/packagist/v/conttas/laravel-money?label=release)](https://github.com/conttas/laravel-money/releases)
 ![Downloads](https://img.shields.io/packagist/dt/conttas/laravel-money)
-![Tests](https://img.shields.io/github/workflow/status/conttas/laravel-money/Tests?label=tests)
 [![License](https://img.shields.io/github/license/conttas/laravel-money)](LICENSE.md)
 
 This package intends to provide tools for formatting and conversion monetary values in an easy, yet powerful way for Laravel projects.
